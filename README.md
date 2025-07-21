@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @GoldenGory. I am a student at UAT.
-- I am in the Game Design course.
-- I have a little bit of HTML, BBCode, and CSS knowledge, but I'm still SO new!
-- I am using this GITHUB for my class and personal projects! :)
-- Thank you for viewing my page!
+<center><img width="648" height="648" alt="Image of a cute kitty, which says: Hi, I'm Kris. I am a student at UAT in the game design course working on my bachelors. I am using this github for my class and personal projects. Thank you for visiting my page!" src="https://github.com/user-attachments/assets/7f205a99-6ad1-4345-bc55-e48204b5a312" /></center>
